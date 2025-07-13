@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/abowaba/abowaba/main/banner.png" alt="Abowaba Adekunle Banner" width="100%" />
 </p>
+
 
 ### 👋 Hi, I'm Abowaba Adekunle 
 A passionate frontend developer with proficiency in frontend development
