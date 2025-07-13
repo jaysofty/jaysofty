@@ -1,7 +1,11 @@
-<!-- Profile Header -->
+<!-- Profile Header
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abowaba/abowaba/main/banner.png" alt="Abowaba Adekunle Banner" width="100%" />
 </p>
+
+-->
+
 
 
 ### 👋 Hi, I'm Abowaba Adekunle 
