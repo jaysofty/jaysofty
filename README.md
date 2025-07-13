@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="banner" width="100%" />
+</p>
 
-<!--
-**jaysofty/jaysofty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Abowaba Adekunle 
+A passionate frontend developer with proficiency in frontend development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Makeup Single Portfolio App**
+-  I’m diving deeper into TypeScript, Node.js, and DevOps
+- 👯 I’m looking to collaborate on fintech, open source
+- 💬 Ask me about: `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`, `Redux`
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+          
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaysofty&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysofty&layout=compact&theme=tokyonight" />
+</p>
+
+
+📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://x.com/jaysofty_)
+  
