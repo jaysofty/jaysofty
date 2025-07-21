@@ -15,7 +15,7 @@ A passionate frontend developer with proficiency in frontend development
 - 🔭 I’m currently working on **Makeup Single Page App with scroll-to feature**
 -  I’m diving deeper into TypeScript, Node.js, and DevOps
 - 👯 I’m looking to collaborate on fintech, open source
-- 💬 Ask me about: `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`, `Redux`,`Next`
+- 💬 Ask me about: `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`, `Redux`,`Nextjs`
 
 ---
 
