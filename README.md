@@ -42,6 +42,6 @@ A passionate frontend developer with proficiency in frontend development
 
 
 📫 Connect with me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/)
 - [Twitter](https://x.com/jaysofty_)
   
