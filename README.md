@@ -9,13 +9,13 @@
 
 
 ### 👋 Hi, I'm Abowaba Adekunle 
-A passionate frontend developer with proficiency in frontend development
+A passionate developer with proficiency in frontend development and Cloud service
 
 
-- 🔭 I’m currently working on **Makeup Single Page App with scroll-to feature**
--  I’m diving deeper into TypeScript, Node.js, and DevOps
+- 🔭 I’m currently working on **AI Web APP with content extraction features, gpt-4.1 chatbot feature and a video analyzer**
+-  I’m diving deeper into Python, TypeScript, Node.js, and DevOps
 - 👯 I’m looking to collaborate on fintech, open source
-- 💬 Ask me about: `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`, `Redux`,`Nextjs`
+- 💬 Ask me about: `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`, `Redux`,` Next.js.`
 
 ---
 
