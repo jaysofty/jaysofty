@@ -15,7 +15,7 @@ A passionate developer with proficiency in frontend development and Cloud servic
 - 🔭 I’m currently working on ** AI Web APP with content extraction features, gpt-4.1 chatbot feature and a video analyzer**
 -  I’m diving deeper into Python, TypeScript, Node.js, and DevOps
 - 👯 I’m looking to collaborate on fintech, open source
-- 💬 Ask me about: `Python`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`, `Redux`,` Next.js``
+- 💬 Ask me about: `Python`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Tailwind CSS`,`Streamlit UI`, `Redux`,` Next.js``
 
 ---
 
