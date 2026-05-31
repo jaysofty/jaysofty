@@ -43,5 +43,5 @@ A passionate developer with proficiency in frontend development and Cloud servic
 
 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/)
-- [Twitter](https://x.com/jaysofty_)
+- [Twitter](https://x.com/dantesBunny_)
   
