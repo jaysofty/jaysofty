@@ -4,7 +4,7 @@
 
 -->
 <p align="center">
-  <img src="https://github.com/jaysofty/jaysofty/blob/main/banner.png" alt="Abowaba Adekunle Banner" width="70%" />
+  <img src="https://github.com/jaysofty/jaysofty/blob/main/banner_two.png" alt="Abowaba Adekunle Banner" width="70%" />
 </p>
 
 
