@@ -9,7 +9,7 @@
 
 
 ### 👋 Hi, I'm Abowaba Adekunle 
-A passionate developer with proficiency in frontend development and Cloud service
+A passionate developer with proficiency in frontend development, Backend and Cloud service
 
 
 - 🔭 I’m currently working on ** AI Web APP with content extraction features, gpt-4.1 chatbot feature and a video analyzer**
