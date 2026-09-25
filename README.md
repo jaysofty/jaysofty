@@ -14,7 +14,7 @@
 <h1 align="center">Hi, I'm Abowaba Adekunle 👋</h1>
 
 <p align="center">
-  <strong>Frontend & Full-Stack Developer · AI Engineer in Progress · Cloud & DevOps</strong>
+  <strong>Software Engineer · AI Engineer in Progress · Cloud & DevOps</strong>
 </p>
 
 <p align="center">
