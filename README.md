@@ -615,22 +615,6 @@ If you're building something interesting, feel free to reach out.
 
 ---
 
-# 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abowaba%20Adekunle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/jaysofty_">
-    <img src="https://img.shields.io/badge/X-@jaysofty-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/jaysofty">
-    <img src="https://img.shields.io/badge/GitHub-jaysofty-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"
