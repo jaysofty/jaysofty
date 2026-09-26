@@ -553,26 +553,25 @@ Final Result
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jaysofty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=jaysofty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Abowaba Adekunle's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysofty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-    height="180"
+    alt="Abowaba Adekunle's Top Languages"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
+    alt="Abowaba Adekunle's GitHub Streak"
+  />
+</p>
+
 ---
 
 # 🤝 Let's Build Something
