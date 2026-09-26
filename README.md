@@ -65,7 +65,7 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 ```ts
 const adekunle = {
@@ -119,7 +119,7 @@ I enjoy taking an idea through the complete engineering lifecycle:
 
 ---
 
-# 🧠 What I Focus On
+## 🧠 What I Focus On
 
 <table>
 <tr>
@@ -178,7 +178,7 @@ I enjoy taking an idea through the complete engineering lifecycle:
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -233,9 +233,9 @@ I enjoy taking an idea through the complete engineering lifecycle:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎬 PopChoice
+### 🎬 PopChoice
 
 ### AI Movie Recommendation Platform
 
@@ -360,7 +360,7 @@ Gift Recommendations
 
 ---
 
-# 🤖 AI Engineering
+## 🤖 AI Engineering
 
 I'm moving beyond simply calling LLM APIs and learning how to engineer reliable AI-powered software.
 
@@ -408,7 +408,7 @@ I'm particularly interested in:
 
 ---
 
-# ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 My cloud journey focuses on understanding how software moves from a local development environment into reliable infrastructure.
 
@@ -434,7 +434,7 @@ Production Architecture
 
 ---
 
-# 🎓 What I'm Learning
+## 🎓 What I'm Learning
 
 <table>
 <tr>
@@ -485,7 +485,7 @@ Production Architecture
 
 ---
 
-# 🧪 Learning Philosophy
+## 🧪 Learning Philosophy
 
 I learn by building.
 
@@ -545,7 +545,7 @@ Final Result
 
 ---
 
-# 🗺️ 2026 Roadmap
+## 🗺️ 2026 Roadmap
 
 ### ✅ Built / Practiced
 
@@ -583,18 +583,18 @@ Final Result
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
     alt="Abowaba Adekunle GitHub Contribution Streak"
-    width="70%"
+    width="90%"
   />
 </p>
 
 
-# 🤝 Let's Build Something
+## 🤝 Let's Build Something
 
 I'm interested in collaborating on:
 
