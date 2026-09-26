@@ -39,7 +39,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Engineering+reliable+backend+systems;Exploring+AI+agents+%26+RAG;Learning+cloud+architecture+%26+DevOps;Turning+ideas+into+working+products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Engineering+reliable+backend+systems;Exploring+AI+agents+%26+RAG;Learning+cloud+architecture+%26+DevOps;Turning+ideas+into+working+products"
     alt="Typing animation"
   />
 </p>
