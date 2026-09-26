@@ -189,6 +189,46 @@ rather than treating each part as an isolated technology.
 
 # 🚀 Featured Projects
 
+
+# 🎬 PopChoice — AI Movie Recommendation App
+
+PopChoice is an AI-powered movie recommendation app that helps users discover movies based on their preferences, interests, and viewing mood.
+
+## ✨ Features
+
+* 🎯 Personalized movie recommendations
+* 🤖 AI-powered recommendation engine
+* 🔎 Movie preference-based search
+* 🧠 Semantic/vector search for better recommendations
+* ⚡ Fast React + Vite frontend
+* 🔐 Secure backend API
+* ☁️ Supabase database and vector storage
+* 🚀 Vercel frontend + Render backend deployment
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* Vite
+* JavaScript
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+* OpenAI-compatible AI API
+* Hugging Face Transformers
+
+**Database & Infrastructure**
+
+* Supabase PostgreSQL
+* pgvector
+* Vercel
+* Render
+
+
 ## 🛡️ VoteShield
 
 **Election-integrity monitoring and anomaly detection platform**
