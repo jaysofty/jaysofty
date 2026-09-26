@@ -585,18 +585,6 @@ Final Result
 
 # 📊 GitHub Activity
 
-### Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/jaysofty/jaysofty/output/activity-graph.svg"
-    alt="Abowaba Adekunle GitHub Activity Graph"
-    width="95%"
-  />
-</p>
-
-### Contribution Streak
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
