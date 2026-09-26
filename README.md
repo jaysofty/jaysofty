@@ -3,47 +3,65 @@
   Username: jaysofty
 -->
 
+<!-- ======================= HERO ======================= -->
+
 <p align="center">
   <img
     src="https://github.com/jaysofty/jaysofty/blob/main/file_00000000c75481f580bdf7d386c673a5.png"
-    alt="Abowaba Adekunle Banner"
+    alt="Abowaba Adekunle"
     width="100%"
   />
 </p>
 
-<h1 align="center">Hi, I'm Abowaba Adekunle 👋</h1>
+<h1 align="center">
+  Hi, I'm Abowaba Adekunle 👋
+</h1>
 
 <p align="center">
   <strong>Software Engineer · AI Engineer in Progress · Cloud & DevOps</strong>
 </p>
 
 <p align="center">
-  I build web applications, AI-powered systems, APIs, and cloud infrastructure —
-  while continuously exploring how software, AI, and cloud engineering come together.
+  Building practical software, AI-powered applications, APIs and cloud infrastructure.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/">LinkedIn</a>
-  ·
-  <a href="https://x.com/jaysofty_">Twitter / X</a>
-  ·
-  <a href="https://github.com/jaysofty">GitHub</a>
+  <a href="https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/jaysofty_">
+    <img src="https://img.shields.io/badge/X-@jaysofty-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/jaysofty">
+    <img src="https://img.shields.io/badge/GitHub-jaysofty-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Engineering+reliable+backend+systems;Exploring+AI+agents+%26+RAG;Learning+cloud+architecture+%26+DevOps;Turning+ideas+into+working+products"
+    alt="Typing animation"
+  />
 </p>
 
 ---
 
-## 🧭 Quick Navigation
+## 🧭 Navigation
 
-* [👋 About Me](#-about-me)
-* [🧠 What I Focus On](#-what-i-focus-on)
-* [🛠️ Tech Stack](#️-tech-stack)
-* [🚀 Featured Projects](#-featured-projects)
-* [🤖 AI Engineering](#-ai-engineering)
-* [☁️ Cloud & DevOps](#️-cloud--devops)
-* [🎓 What I'm Learning](#-what-im-learning)
-* [🗺️ 2026 Roadmap](#️-2026-roadmap)
-* [📊 GitHub Stats](#-github-stats)
-* [🤝 Let's Connect](#-lets-connect)
+<p align="center">
+
+[About](#-about-me) ·
+[Focus](#-what-i-focus-on) ·
+[Stack](#️-tech-stack) ·
+[Projects](#-featured-projects) ·
+[AI](#-ai-engineering) ·
+[Cloud](#️-cloud--devops) ·
+[Learning](#-what-im-learning) ·
+[Roadmap](#️-2026-roadmap) ·
+[Stats](#-github-activity) ·
+[Connect](#-lets-connect)
+
+</p>
 
 ---
 
@@ -53,17 +71,17 @@
 const adekunle = {
   name: "Abowaba Adekunle",
 
-  role: [
+  roles: [
     "Frontend Developer",
     "Full-Stack Developer",
     "AI Engineer in Progress",
     "Cloud & DevOps Learner"
   ],
 
-  currentlyBuilding: [
+  building: [
     "AI-powered applications",
     "AI agents and LLM integrations",
-    "NovelVerse — a social platform for readers and authors",
+    "NovelVerse",
     "Cloud-native backend systems"
   ],
 
@@ -77,60 +95,86 @@ const adekunle = {
     "Developer Tooling"
   ],
 
-  principle:
-    "Build it. Understand it. Test it. Improve it."
+  philosophy: "Build it. Understand it. Test it. Improve it."
 };
 ```
 
-I'm a developer focused on building practical software and understanding the engineering behind it.
+I'm a software engineer focused on building practical applications and understanding the engineering behind them.
 
-My journey started with web development and has expanded into backend engineering, cloud infrastructure, DevOps, and AI-powered applications.
+My journey started with web development and has expanded into backend engineering, cloud infrastructure, DevOps and AI engineering.
 
-I enjoy taking an idea from:
+I enjoy taking an idea through the complete engineering lifecycle:
 
-**Problem → Architecture → API → Database → UI → Deployment → Iteration**
+<p align="center">
 
-rather than treating each part as an isolated technology.
+<strong>Problem</strong>
+→ <strong>Architecture</strong>
+→ <strong>API</strong>
+→ <strong>Database</strong>
+→ <strong>UI</strong>
+→ <strong>Deployment</strong>
+→ <strong>Iteration</strong>
+
+</p>
 
 ---
 
 # 🧠 What I Focus On
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### 💻 Software Engineering
 
-* React & Next.js applications
-* TypeScript development
-* REST API design
-* Node.js & Express
+* React
+* Next.js
+* TypeScript
+* Node.js
+* Express.js
 * PostgreSQL
 * Prisma
-* Authentication & authorization
-* Reusable component architecture
+* REST APIs
+* Authentication
+* System architecture
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🤖 AI Engineering
 
-* LLM API integration
-* OpenAI-compatible APIs
+* LLM APIs
 * OpenRouter
-* AI agents
-* Prompt engineering
-* Streaming AI responses
-* Retrieval-Augmented Generation (RAG)
-* AI application architecture
-* Multi-provider AI systems
+* AI Agents
+* Prompt Engineering
+* RAG
+* Embeddings
+* Vector Search
+* Tool Calling
+* AI Workflows
+* Multi-Agent Systems
+
+</td>
+
+<td width="33%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
-* Docker & Docker Compose
+* Docker
+* Docker Compose
 * GitHub Actions
-* CI/CD
-* Infrastructure as Code
 * Terraform
 * Azure
-* AWS concepts
+* AWS
 * Linux
-* Cloud networking
-* Containerized applications
+* CI/CD
+* Cloud Networking
+* Infrastructure Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,102 +182,87 @@ rather than treating each part as an isolated technology.
 
 ### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" />
 </p>
 
 ### Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" alt="Redux"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" alt="Redux" />
 </p>
 
 ### Backend & Database
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma" />
 </p>
 
-### AI / Data
+### AI & Data
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
 </p>
 
-**Exploring:**
+<p align="center">
 
 `LLMs` · `AI Agents` · `RAG` · `Vector Search` · `Embeddings` · `AI APIs` · `AI Workflows`
 
+</p>
+
 ### Cloud & DevOps
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+## 🎬 PopChoice
 
-## 🎬 PopChoice — AI Movie Recommendation App
+### AI Movie Recommendation Platform
 
-PopChoice is an AI-powered movie recommendation app that helps users discover movies based on their preferences, interests, and viewing mood.
+PopChoice helps users discover movies based on their preferences, interests and viewing mood.
 
-## ✨ Features
+**Highlights**
 
-* 🎯 Personalized movie recommendations
+* 🎯 Personalized recommendations
 * 🤖 AI-powered recommendation engine
-* 🔎 Movie preference-based search
-* 🧠 Semantic/vector search for better recommendations
-* ⚡ Fast React + Vite frontend
-* 🔐 Secure backend API
-* ☁️ Supabase database and vector storage
-* 🚀 Vercel frontend + Render backend deployment
+* 🔎 Preference-based discovery
+* 🧠 Semantic/vector search
+* ⚡ React + Vite frontend
+* 🔐 Backend API
+* 🗄️ Supabase PostgreSQL + pgvector
+* 🚀 Vercel + Render deployment
 
-## 🛠️ Tech Stack
+**Stack**
 
-**Frontend**
+`React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `OpenAI-compatible APIs` `Hugging Face` `Supabase` `pgvector`
 
-* React
-* Vite
-* JavaScript
-* Tailwind CSS
-
-**Backend**
-
-* Node.js
-* Express.js
-* OpenAI-compatible AI API
-* Hugging Face Transformers
-
-**Database & Infrastructure**
-
-* Supabase PostgreSQL
-* pgvector
-* Vercel
-* Render
-
+---
 
 ## 🛡️ VoteShield
 
-**Election-integrity monitoring and anomaly detection platform**
+### Election-Integrity Monitoring & Anomaly Detection
 
-VoteShield connects voters, voter cards, voting attempts, polling units, and devices to identify patterns that may indicate unauthorized card usage.
+VoteShield connects voters, voter cards, voting attempts, polling units and devices to identify patterns that may indicate unauthorized card usage.
 
 ### Architecture
 
@@ -253,36 +282,36 @@ CognoDB / Cypher
 Graph Relationships
 ```
 
-### Tech
+**Stack**
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Node.js` · `CognoDB` · `Cypher` · `Docker` · `GitHub Actions`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Node.js` `CognoDB` `Cypher` `Docker` `GitHub Actions`
 
 ---
 
 ## 📚 NovelVerse
 
-**A social platform connecting readers and authors**
+### Social Platform for Readers & Authors
 
-NovelVerse is a platform I'm building around the love of books and storytelling.
+NovelVerse is a platform I'm building around books, storytelling and community.
 
-The goal is to create a space where readers can:
+Readers can:
 
 * 📖 Discover novels
 * ❤️ Like chapters
-* 💬 Comment on chapters
+* 💬 Comment
 * 🔖 Bookmark books
 * 👥 Follow authors
 * 📚 Track reading progress
 * 🤖 Explore AI-generated literary content
 * 🎬 Eventually experience AI-generated novel/video content
 
-### Current Architecture
+### Architecture
 
 ```text
-React / Next.js
+Next.js / React
        │
        ▼
-Express API
+Express.js API
        │
        ▼
 PostgreSQL
@@ -291,30 +320,21 @@ PostgreSQL
 Prisma ORM
 ```
 
-### Tech
+**Stack**
 
-`Next.js` · `React` · `TypeScript` · `Express.js` · `PostgreSQL` · `Prisma` · `Docker`
+`Next.js` `React` `TypeScript` `Express.js` `PostgreSQL` `Prisma` `Docker`
 
 ---
 
 ## 🎁 Gift Genie
 
-**AI-powered conversational gift recommendation assistant**
+### AI-Powered Gift Recommendation Assistant
 
 Gift Genie is an AI application designed to understand the context behind a gift request instead of simply returning generic recommendations.
 
-It considers things such as:
+It considers:
 
-* Recipient
-* Age
-* Relationship
-* Interests
-* Occasion
-* Budget
-* Location
-* Deadline
-* Availability
-* Delivery constraints
+`Recipient` · `Age` · `Relationship` · `Interests` · `Occasion` · `Budget` · `Location` · `Deadline` · `Availability`
 
 ### AI Architecture
 
@@ -334,55 +354,63 @@ LLM
 Gift Recommendations
 ```
 
-The project is also helping me explore:
+**Exploring**
 
-`LLM APIs` · `Streaming` · `Prompt Design` · `AI Providers` · `Rate Limits` · `Error Handling` · `AI Application Architecture`
+`LLM APIs` · `Streaming` · `Prompt Design` · `AI Providers` · `Rate Limits` · `Error Handling` · `AI Architecture`
 
 ---
 
 # 🤖 AI Engineering
 
-I'm currently transitioning deeper into AI engineering — moving beyond simply calling an LLM API and learning how to build reliable applications around AI systems.
+I'm moving beyond simply calling LLM APIs and learning how to engineer reliable AI-powered software.
 
-### Areas I'm exploring
+### My current learning path
 
 ```text
 LLM APIs
-   ↓
+   │
+   ▼
 Prompt Engineering
-   ↓
+   │
+   ▼
 Structured Outputs
-   ↓
+   │
+   ▼
 Tool Calling
-   ↓
+   │
+   ▼
 AI Agents
-   ↓
+   │
+   ▼
 RAG
-   ↓
+   │
+   ▼
 Memory
-   ↓
+   │
+   ▼
 Multi-Agent Systems
-   ↓
+   │
+   ▼
 Evaluation & Observability
 ```
 
-I'm particularly interested in the engineering problems surrounding AI applications:
+I'm particularly interested in:
 
-* How do we make probabilistic models useful inside deterministic software?
-* How should AI agents interact with tools?
-* How should applications handle model failures?
-* How do we manage rate limits and provider failures?
-* How can different AI providers be swapped without rewriting the application?
-* How do we evaluate AI responses?
-* How do we build AI systems that are easier to debug and maintain?
+* Building reliable AI applications
+* Agent/tool interaction
+* Model and provider abstraction
+* Rate-limit handling
+* Provider fallbacks
+* AI evaluation
+* Observability
+* RAG pipelines
+* Production AI architecture
 
 ---
 
 # ☁️ Cloud & DevOps
 
-My cloud journey started with learning how applications actually get deployed and operated beyond the local development environment.
-
-### Currently exploring
+My cloud journey focuses on understanding how software moves from a local development environment into reliable infrastructure.
 
 ```text
 Docker
@@ -400,70 +428,74 @@ AWS / Azure
 Production Architecture
 ```
 
-Hands-on areas include:
+### Hands-on Areas
 
-* Docker & Docker Compose
-* GitHub Actions
-* Terraform
-* Azure infrastructure
-* AWS fundamentals
-* Linux
-* Networking
-* IAM / RBAC
-* NSGs
-* Public / private networking
-* Containerized applications
-* Local cloud emulation
+`Docker` · `Docker Compose` · `GitHub Actions` · `Terraform` · `Azure` · `AWS` · `Linux` · `Networking` · `IAM` · `RBAC` · `NSGs` · `Cloud Automation`
 
 ---
 
 # 🎓 What I'm Learning
 
-### 🧠 AI Engineering
+<table>
+<tr>
+<td width="33%" valign="top">
 
-* LLM application architecture
-* AI agents
+### 🧠 AI
+
+* AI Agents
 * RAG
 * Embeddings
-* Vector databases
-* Tool calling
-* Multi-agent workflows
-* AI evaluation
-* AI observability
+* Vector Databases
+* Tool Calling
+* Multi-Agent Workflows
+* AI Evaluation
+* AI Observability
 
-### 💻 Software Engineering
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 Engineering
 
 * Advanced TypeScript
-* Backend architecture
-* API design
-* Database design
-* System design
+* Backend Architecture
+* API Design
+* Database Design
+* System Design
 * Testing
-* Clean architecture
+* Clean Architecture
 
-### ☁️ Cloud & DevOps
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ Cloud
 
 * AWS
 * Azure
 * Terraform
 * Docker
 * CI/CD
-* Cloud networking
-* Infrastructure automation
+* Networking
+* Infrastructure Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧪 Learning Philosophy
 
-I prefer learning by building.
+I learn by building.
 
-Instead of only studying:
+Instead of only asking:
 
 ```text
 "How does Docker work?"
 ```
 
-I try to build:
+I build:
 
 ```text
 Application
@@ -481,9 +513,7 @@ CI/CD
 Cloud Deployment
 ```
 
-The same approach applies to AI.
-
-Instead of only learning:
+And instead of only asking:
 
 ```text
 "What is an AI agent?"
@@ -507,13 +537,17 @@ Next Decision
 Final Result
 ```
 
-**Build → Break → Debug → Understand → Improve**
+<p align="center">
+
+<strong>Build → Break → Debug → Understand → Improve</strong>
+
+</p>
 
 ---
 
 # 🗺️ 2026 Roadmap
 
-### ✅ Building
+### ✅ Built / Practiced
 
 * [x] React applications
 * [x] Next.js applications
@@ -530,13 +564,13 @@ Final Result
 
 * [ ] AI Agents
 * [ ] RAG
-* [ ] Vector databases
-* [ ] Tool calling
-* [ ] AI evaluation
+* [ ] Vector Databases
+* [ ] Tool Calling
+* [ ] AI Evaluation
 * [ ] Advanced TypeScript
 * [ ] AWS
-* [ ] Cloud architecture
-* [ ] Production AI systems
+* [ ] Cloud Architecture
+* [ ] Production AI Systems
 
 ### 🚀 Long-Term
 
@@ -549,26 +583,25 @@ Final Result
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
+
+> **Note:** The public `github-readme-stats.vercel.app` service is currently returning `503` for the stats and language endpoints. The official project recommends using your own deployment or its GitHub Actions workflow for reliable cards.
+
+### Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jaysofty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Abowaba Adekunle's GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jaysofty&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysofty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Abowaba Adekunle's Top Languages"
-  />
-</p>
+### Contribution Graph
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
-    alt="Abowaba Adekunle's GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jaysofty&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
@@ -576,43 +609,52 @@ Final Result
 
 # 🤝 Let's Build Something
 
-I'm interested in collaborating on projects involving:
+I'm interested in collaborating on:
 
-* 🤖 AI applications
-* 🧠 AI agents
-* 💻 React / Next.js applications
-* 🔌 REST APIs
-* ☁️ Cloud & DevOps
-* 🔐 Developer tooling
-* 🌍 Open-source projects
-* 💡 Interesting startup ideas
+<p align="center">
+
+🤖 AI Applications ·
+🧠 AI Agents ·
+💻 React / Next.js ·
+🔌 REST APIs ·
+☁️ Cloud & DevOps ·
+🔐 Developer Tooling ·
+🌍 Open Source ·
+💡 Startup Ideas
+
+</p>
 
 If you're building something interesting, feel free to reach out.
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abowaba%20Adekunle-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abowaba%20Adekunle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://x.com/jaysofty_">
-    <img src="https://img.shields.io/badge/X-@jaysofty-black?style=for-the-badge&logo=x" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-@jaysofty-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-
   <a href="https://github.com/jaysofty">
-    <img src="https://img.shields.io/badge/GitHub-jaysofty-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-jaysofty-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
 
 <p align="center">
   <i>Building software, learning systems, and turning ideas into working products.</i>
 </p>
 
 <p align="center">
-  ⭐ If you find something useful here, feel free to explore the repositories.
+  ⭐ Explore the repositories and follow the journey.
 </p>
