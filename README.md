@@ -190,7 +190,7 @@ rather than treating each part as an isolated technology.
 # 🚀 Featured Projects
 
 
-# 🎬 PopChoice — AI Movie Recommendation App
+## 🎬 PopChoice — AI Movie Recommendation App
 
 PopChoice is an AI-powered movie recommendation app that helps users discover movies based on their preferences, interests, and viewing mood.
 
