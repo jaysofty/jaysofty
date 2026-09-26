@@ -585,14 +585,6 @@ Final Result
 
 # 📊 GitHub Activity
 
-### Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jaysofty&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 ### Contribution Graph
 
 <p align="center">
