@@ -585,8 +585,6 @@ Final Result
 
 # 📊 GitHub Activity
 
-> **Note:** The public `github-readme-stats.vercel.app` service is currently returning `503` for the stats and language endpoints. The official project recommends using your own deployment or its GitHub Actions workflow for reliable cards.
-
 ### Contribution Activity
 
 <p align="center">
@@ -595,16 +593,25 @@ Final Result
     alt="GitHub Contribution Streak"
   />
 </p>
-
 ### Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jaysofty&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/jaysofty/jaysofty/output/activity-graph.svg"
+    alt="Abowaba Adekunle GitHub Activity Graph"
+    width="95%"
   />
 </p>
 
+### Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
+    alt="Abowaba Adekunle GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
 ---
 
 # 🤝 Let's Build Something
