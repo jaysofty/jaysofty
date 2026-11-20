@@ -258,36 +258,6 @@ PopChoice helps users discover movies based on their preferences, interests and 
 
 ---
 
-## 🛡️ VoteShield
-
-### Election-Integrity Monitoring & Anomaly Detection
-
-VoteShield connects voters, voter cards, voting attempts, polling units and devices to identify patterns that may indicate unauthorized card usage.
-
-### Architecture
-
-```text
-Next.js / React
-       │
-       ▼
-Next.js API Routes
-       │
-       ▼
-Repository Pattern
-       │
-       ▼
-CognoDB / Cypher
-       │
-       ▼
-Graph Relationships
-```
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Node.js` `CognoDB` `Cypher` `Docker` `GitHub Actions`
-
----
-
 ## 📚 NovelVerse
 
 ### Social Platform for Readers & Authors
@@ -432,56 +402,6 @@ Production Architecture
 
 `Docker` · `Docker Compose` · `GitHub Actions` · `Terraform` · `Azure` · `AWS` · `Linux` · `Networking` · `IAM` · `RBAC` · `NSGs` · `Cloud Automation`
 
----
-
-## 🎓 What I'm Learning
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 AI
-
-* AI Agents
-* RAG
-* Embeddings
-* Vector Databases
-* Tool Calling
-* Multi-Agent Workflows
-* AI Evaluation
-* AI Observability
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💻 Engineering
-
-* Advanced TypeScript
-* Backend Architecture
-* API Design
-* Database Design
-* System Design
-* Testing
-* Clean Architecture
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☁️ Cloud
-
-* AWS
-* Azure
-* Terraform
-* Docker
-* CI/CD
-* Networking
-* Infrastructure Automation
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -559,28 +479,20 @@ Final Result
 * [x] Terraform fundamentals
 * [x] Azure fundamentals
 * [x] AI API integrations
-
-### 🔄 Currently Deepening
-
-* [ ] AI Agents
-* [ ] RAG
-* [ ] Vector Databases
-* [ ] Tool Calling
-* [ ] AI Evaluation
-* [ ] Advanced TypeScript
-* [ ] AWS
-* [ ] Cloud Architecture
-* [ ] Production AI Systems
+* [x] AI Agents
+* [x] RAG
+* [x] Vector Databases
+* [x] Tool Calling
+* [x] AI Evaluation
+* [x] Advanced TypeScript
+* [x] AWS
+* [x] Cloud Architecture
+* [x] Production AI Systems
 
 ### 🚀 Long-Term
 
-* [ ] Production-grade AI applications
-* [ ] Multi-agent systems
-* [ ] Advanced cloud architecture
-* [ ] AI infrastructure
-* [ ] Open-source contributions
-* [ ] Scalable distributed systems
-
+* [x] Production-grade AI applications
+* [x] Multi-agent systems
 ---
 
 ## 📊 GitHub Activity
