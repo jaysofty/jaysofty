@@ -98,7 +98,7 @@ How I review AI-generated output, using LegalFlow AI as the test bed:
 
 - **Mastering Model Mechanics**, Mercor (Nov 2026): [verify](https://work.mercor.com/learn/verify/MRC-2026-5HK6QSCJ)
 - **Introduction to AI Agents**, Mercor (Oct 2026): [verify](https://work.mercor.com/learn/verify/MRC-2026-AMF6C8QT)
-- **CloudComputing / DevOps**, TechCrush (Aug 2026): [verify](https://techcrush.pro/verify-certificates)
+- **CloudComputing / DevOps**, TechCrush (Aug 2026): [verify:TEC-26EE0C13](https://techcrush.pro/verify-certificates)
 
 ---
 
