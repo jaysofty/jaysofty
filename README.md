@@ -1,543 +1,117 @@
-<!--
-  GitHub Profile README
-  Username: jaysofty
--->
-
-<!-- ======================= HERO ======================= -->
+<h1 align="center">Hi, I'm Abowaba Adekunle 👋</h1>
 
 <p align="center">
-  <img
-    src="https://github.com/jaysofty/jaysofty/blob/main/file_00000000c75481f580bdf7d386c673a5.png"
-    alt="Abowaba Adekunle"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">
-  Hi, I'm Abowaba Adekunle 👋
-</h1>
-
-<p align="center">
-  <strong>Software Engineer · AI Engineer in Progress · Cloud & DevOps</strong>
+  <strong>Software Engineer · AI Engineer · AI Output Evaluator</strong><br/>
+  Lagos, Nigeria · Open to remote roles
 </p>
 
 <p align="center">
-  Building practical software, AI-powered applications, APIs and cloud infrastructure.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/jaysofty_">
-    <img src="https://img.shields.io/badge/X-@jaysofty-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/jaysofty">
-    <img src="https://img.shields.io/badge/GitHub-jaysofty-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Engineering+reliable+backend+systems;Exploring+AI+agents+%26+RAG;Learning+cloud+architecture+%26+DevOps;Turning+ideas+into+working+products"
-    alt="Typing animation"
-  />
+  <a href="https://my-portfolio-nu-sage.vercel.app/projects">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/">LinkedIn</a> ·
+  <a href="https://x.com/jaysofty_">X</a>
 </p>
 
 ---
 
-## 🧭 Navigation
+## About
 
-<p align="center">
+I build practical web and AI-powered applications, and I care about whether AI output is actually correct, relevant and safe to rely on. I have 5+ years of professional experience across frontend and full-stack work, and I design AI features around human review: AI prepares, people make the final call.
 
-[About](#-about-me) ·
-[Focus](#-what-i-focus-on) ·
-[Stack](#️-tech-stack) ·
-[Projects](#-featured-projects) ·
-[AI](#-ai-engineering) ·
-[Cloud](#️-cloud--devops) ·
-[Learning](#-what-im-learning) ·
-[Roadmap](#️-2026-roadmap) ·
-[Stats](#-github-activity) ·
-[Connect](#-lets-connect)
-
-</p>
+I'm currently open to **AI output evaluation and training projects** and **software engineering roles**.
 
 ---
 
-## 👋 About Me
+## Featured projects
 
-```ts
-const adekunle = {
-  name: "Abowaba Adekunle",
+### ⚖️ LegalFlow AI: law-firm workflow platform
+Matters, clients, tasks and document workflows, with AI-assisted drafting and matter-scoped retrieval (RAG). Built around firm-level tenancy and approval gates so unverified AI drafts are never treated as approved.
+`React` `Express.js` `Prisma` `PostgreSQL` `Groq` `RAG`
+[Repository](https://github.com/jaysofty/AI-legal-workflow-system)
 
-  roles: [
-    "Frontend Developer",
-    "Full-Stack Developer",
-    "AI Engineer in Progress",
-    "Cloud & DevOps Learner"
-  ],
+### 🎬 PopChoice: AI movie recommendations
+Semantic search over movie embeddings (Hugging Face `all-MiniLM-L6-v2`, Supabase pgvector), then a Groq-hosted model picks from the retrieved candidates and explains the match. The API rejects any answer that isn't one of the retrieved candidates.
+`React` `Vite` `Express.js` `Supabase` `pgvector` `Groq`
+[Live demo](https://ai-movie-recommendation-app-beta.vercel.app) · [Repository](https://github.com/jaysofty/ai-movie-recommendation-app)
 
-  building: [
-    "AI-powered applications",
-    "AI agents and LLM integrations",
-    "NovelVerse",
-    "Cloud-native backend systems"
-  ],
+### 🧾 AI Expense Tracker
+Extracts structured data from receipt images with Azure Document Intelligence, with review workflows to approve or reject extracted results.
+`Next.js` `Azure Document Intelligence` `Neon DB`
+[Live demo](https://expense-tracker-system-six.vercel.app) · [Repository](https://github.com/jaysofty/expense_tracker_system)
 
-  interests: [
-    "Artificial Intelligence",
-    "Agentic Systems",
-    "Frontend Engineering",
-    "Backend APIs",
-    "Cloud Architecture",
-    "DevOps",
-    "Developer Tooling"
-  ],
+### 🏠 Real-estate platform (D1stclass Heritage)
+Contract frontend work on a platform for high-net-worth property investors, including the migration from React to Next.js.
+`Next.js` `NestJS` `TypeScript` `Prisma` `Docker` `PostgreSQL`
+[Live site](https://domyheritage.com) · [Repository](https://github.com/jaysofty/Real-estate-app-Nextjs---Nestjs)
 
-  philosophy: "Build it. Understand it. Test it. Improve it."
-};
-```
-
-I'm a software engineer focused on building practical applications and understanding the engineering behind them.
-
-My journey started with web development and has expanded into backend engineering, cloud infrastructure, DevOps and AI engineering.
-
-I enjoy taking an idea through the complete engineering lifecycle:
-
-<p align="center">
-
-<strong>Problem</strong>
-→ <strong>Architecture</strong>
-→ <strong>API</strong>
-→ <strong>Database</strong>
-→ <strong>UI</strong>
-→ <strong>Deployment</strong>
-→ <strong>Iteration</strong>
-
-</p>
-
----
-
-## 🧠 What I Focus On
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 Software Engineering
-
-* React
-* Next.js
-* TypeScript
-* Node.js
-* Express.js
-* PostgreSQL
-* Prisma
-* REST APIs
-* Authentication
-* System architecture
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 AI Engineering
-
-* LLM APIs
-* OpenRouter
-* AI Agents
-* Prompt Engineering
-* RAG
-* Embeddings
-* Vector Search
-* Tool Calling
-* AI Workflows
-* Multi-Agent Systems
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☁️ Cloud & DevOps
-
-* Docker
-* Docker Compose
-* GitHub Actions
-* Terraform
-* Azure
-* AWS
-* Linux
-* CI/CD
-* Cloud Networking
-* Infrastructure Automation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" alt="Redux" />
-</p>
-
-### Backend & Database
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma" />
-</p>
-
-### AI & Data
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
-</p>
-
-<p align="center">
-
-`LLMs` · `AI Agents` · `RAG` · `Vector Search` · `Embeddings` · `AI APIs` · `AI Workflows`
-
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 PopChoice
-
-### AI Movie Recommendation Platform
-
-PopChoice helps users discover movies based on their preferences, interests and viewing mood.
-
-**Highlights**
-
-* 🎯 Personalized recommendations
-* 🤖 AI-powered recommendation engine
-* 🔎 Preference-based discovery
-* 🧠 Semantic/vector search
-* ⚡ React + Vite frontend
-* 🔐 Backend API
-* 🗄️ Supabase PostgreSQL + pgvector
-* 🚀 Vercel + Render deployment
-
-**Stack**
-
-`React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `OpenAI-compatible APIs` `Hugging Face` `Supabase` `pgvector`
-
----
-
-## 📚 NovelVerse
-
-### Social Platform for Readers & Authors
-
-NovelVerse is a platform I'm building around books, storytelling and community.
-
-Readers can:
-
-* 📖 Discover novels
-* ❤️ Like chapters
-* 💬 Comment
-* 🔖 Bookmark books
-* 👥 Follow authors
-* 📚 Track reading progress
-* 🤖 Explore AI-generated literary content
-* 🎬 Eventually experience AI-generated novel/video content
-
-### Architecture
-
-```text
-Next.js / React
-       │
-       ▼
-Express.js API
-       │
-       ▼
-PostgreSQL
-       │
-       ▼
-Prisma ORM
-```
-
-**Stack**
-
+### 📚 NovelVerse (in progress)
+A social platform where readers discover stories and follow authors, with AI-generated novels planned.
 `Next.js` `React` `TypeScript` `Express.js` `PostgreSQL` `Prisma` `Docker`
+[Repository](https://github.com/jaysofty/NovelVerse)
 
 ---
 
-## 🎁 Gift Genie
+## AI output evaluation
 
-### AI-Powered Gift Recommendation Assistant
+How I review AI-generated output, using LegalFlow AI as the test bed:
 
-Gift Genie is an AI application designed to understand the context behind a gift request instead of simply returning generic recommendations.
+| Criterion | What I check |
+| --- | --- |
+| Factual accuracy | Claims match the verified matter context; no unsupported legal claims |
+| Relevance | The response answers the actual request |
+| Completeness | Nothing required by the prompt is missing |
+| Instruction adherence | Structured prompt requirements are followed |
+| Hallucination risk | Incorrect matter details or invented facts |
 
-It considers:
+- Tested generated documents against verified matter context, with human review and approval so unverified drafts are never treated as approved.
+- Investigated response quality across retrieval, prompt execution and document generation to improve reliability and consistency.
+- Compared Groq and OpenAI outputs with a five-criterion rubric to support model selection.
 
-`Recipient` · `Age` · `Relationship` · `Interests` · `Occasion` · `Budget` · `Location` · `Deadline` · `Availability`
-
-### AI Architecture
-
-```text
-React / Vite
-      │
-      ▼
-Express.js API
-      │
-      ▼
-AI Provider
-      │
-      ▼
-LLM
-      │
-      ▼
-Gift Recommendations
-```
-
-**Exploring**
-
-`LLM APIs` · `Streaming` · `Prompt Design` · `AI Providers` · `Rate Limits` · `Error Handling` · `AI Architecture`
+<!-- Add a link to the evals/ folder here once the rubric and results are published. -->
 
 ---
 
-## 🤖 AI Engineering
+## Tech stack
 
-I'm moving beyond simply calling LLM APIs and learning how to engineer reliable AI-powered software.
-
-### My current learning path
-
-```text
-LLM APIs
-   │
-   ▼
-Prompt Engineering
-   │
-   ▼
-Structured Outputs
-   │
-   ▼
-Tool Calling
-   │
-   ▼
-AI Agents
-   │
-   ▼
-RAG
-   │
-   ▼
-Memory
-   │
-   ▼
-Multi-Agent Systems
-   │
-   ▼
-Evaluation & Observability
-```
-
-I'm particularly interested in:
-
-* Building reliable AI applications
-* Agent/tool interaction
-* Model and provider abstraction
-* Rate-limit handling
-* Provider fallbacks
-* AI evaluation
-* Observability
-* RAG pipelines
-* Production AI architecture
-
----
-
-## ☁️ Cloud & DevOps
-
-My cloud journey focuses on understanding how software moves from a local development environment into reliable infrastructure.
-
-```text
-Docker
-   ↓
-Containers
-   ↓
-CI/CD
-   ↓
-Terraform
-   ↓
-Cloud Infrastructure
-   ↓
-AWS / Azure
-   ↓
-Production Architecture
-```
-
-### Hands-on Areas
-
-`Docker` · `Docker Compose` · `GitHub Actions` · `Terraform` · `Azure` · `AWS` · `Linux` · `Networking` · `IAM` · `RBAC` · `NSGs` · `Cloud Automation`
-
-
----
-
-## 🧪 Learning Philosophy
-
-I learn by building.
-
-Instead of only asking:
-
-```text
-"How does Docker work?"
-```
-
-I build:
-
-```text
-Application
-     ↓
-Dockerfile
-     ↓
-Docker Compose
-     ↓
-Database
-     ↓
-API
-     ↓
-CI/CD
-     ↓
-Cloud Deployment
-```
-
-And instead of only asking:
-
-```text
-"What is an AI agent?"
-```
-
-I build:
-
-```text
-User
- ↓
-LLM
- ↓
-Decision
- ↓
-Tool
- ↓
-Observation
- ↓
-Next Decision
- ↓
-Final Result
-```
-
-<p align="center">
-
-<strong>Build → Break → Debug → Understand → Improve</strong>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
 </p>
 
----
-
-## 🗺️ 2026 Roadmap
-
-### ✅ Built / Practiced
-
-* [x] React applications
-* [x] Next.js applications
-* [x] REST APIs
-* [x] PostgreSQL applications
-* [x] Prisma
-* [x] Docker
-* [x] GitHub Actions
-* [x] Terraform fundamentals
-* [x] Azure fundamentals
-* [x] AI API integrations
-* [x] AI Agents
-* [x] RAG
-* [x] Vector Databases
-* [x] Tool Calling
-* [x] AI Evaluation
-* [x] Advanced TypeScript
-* [x] AWS
-* [x] Cloud Architecture
-* [x] Production AI Systems
-
-### 🚀 Long-Term
-
-* [x] Production-grade AI applications
-* [x] Multi-agent systems
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jaysofty&theme=tokyonight&hide_border=true"
-    alt="Abowaba Adekunle GitHub Contribution Streak"
-    width="90%"
-  />
-</p>
-
-
-## 🤝 Let's Build Something
-
-I'm interested in collaborating on:
-
-<p align="center">
-
-🤖 AI Applications ·
-🧠 AI Agents ·
-💻 React / Next.js ·
-🔌 REST APIs ·
-☁️ Cloud & DevOps ·
-🔐 Developer Tooling ·
-🌍 Open Source ·
-💡 Startup Ideas
-
-</p>
-
-If you're building something interesting, feel free to reach out.
+- **AI:** LLM APIs (OpenAI, OpenRouter, Groq), Hugging Face, embeddings, pgvector, RAG, human-in-the-loop design
+- **Engineering:** React, Next.js, NestJS, Node.js, Express.js, REST APIs, PostgreSQL, Prisma, Tailwind CSS
+- **Cloud and DevOps:** Docker, GitHub Actions (CI/CD), Terraform, Azure (containerized SaaS and multi-tier VNet projects)
 
 ---
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"
-    alt="Footer"
-  />
-</p>
+## Certifications
 
-<p align="center">
-  <i>Building software, learning systems, and turning ideas into working products.</i>
-</p>
+- **Mastering Model Mechanics**, Mercor (Nov 2026): [verify](https://work.mercor.com/learn/verify/MRC-2026-5HK6QSCJ)
+- **Introduction to AI Agents**, Mercor (Oct 2026): [verify](https://work.mercor.com/learn/verify/MRC-2026-AMF6C8QT)
+- **CloudComputing / DevOps**, TechCrush (Aug 2026): [verify](https://techcrush.pro/verify-certificates)
 
-<p align="center">
-  ⭐ Explore the repositories and follow the journey.
-</p>
+---
+
+## Where I am
+
+**Built and used in real projects:** React and Next.js apps · REST APIs · PostgreSQL with Prisma · Docker · GitHub Actions · Terraform and Azure · LLM API integrations · RAG and vector search · human-in-the-loop AI workflows
+
+**Learning next:** AWS · multi-agent systems · AI observability · production-scale AI architecture
+
+---
+
+## Let's connect
+
+If you're building something in AI evaluation, AI-powered products, or full-stack web, I'd like to hear about it.
+
+[Portfolio](https://my-portfolio-nu-sage.vercel.app/projects) · [LinkedIn](https://www.linkedin.com/in/adekunle-abowaba-09a2701b4/) · [X](https://x.com/jaysofty_)
